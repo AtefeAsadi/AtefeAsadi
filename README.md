@@ -13,8 +13,6 @@
 ## Current Focus
 
 - 🔬 Statistical Machine Learning
-- 🧬 Breast Cancer Research
-- 🧠 Parkinson Disease Modeling
 - 🤖 AI Agents
 - 📚 Building an AI & Data Science Community
 
