@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Atefe Asadi
+
+🎓 Statistics MSc
+
+💻 AI & Data Science Researcher
+
+🧬 Interested in Biomedical AI
+
+📊 R | Python | SQL | Machine Learning
+
+---
+
+## Current Focus
+
+- 🔬 Statistical Machine Learning
+- 🧬 Breast Cancer Research
+- 🧠 Parkinson Disease Modeling
+- 🤖 AI Agents
+- 📚 Building an AI & Data Science Community
+
+---
+
+## Featured Projects
+
+- MERF Simulation
+- AI Research Agent
+- Iran CV Analyzer
+- Personal Website
+
+---
+
+## Connect with me
+
+LinkedIn: www.linkedin.com/in/atefeasadi1
+
+Email : miss.asadi99@gmail.com
 
 <!--
 **AtefeAsadi/AtefeAsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
