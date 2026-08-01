@@ -18,6 +18,7 @@
 📚 Building StudyBuild – An Open-Source AI & Data Science Community
 
 🌍 Open Source Projects & Research
+
 📌 MERF Simulation
 Mixed Effects Random Forest research
 
