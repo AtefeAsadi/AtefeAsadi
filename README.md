@@ -1,49 +1,28 @@
 # Hi 👋 I'm Atefe Asadi
 
-🎓 Statistics MSc
+🎓 MSc in Statistics
 
-💻 AI & Data Science Researcher
+🚀 Founder of StudyBuild – An Open-Source AI & Data Science Community
 
-🧬 Interested in Biomedical AI
+💻 Data Scientist & Machine Learning Researcher
 
-📊 R | Python | SQL | Machine Learning
+🧬 Interested in Biomedical AI and Statistical Machine Learning
 
----
-
+📊 Python | R | SQL | Power BI
 ## Current Focus
 
-- 🔬 Statistical Machine Learning
-- 🤖 AI Agents
-- 📚 Building an AI & Data Science Community
+🔬 Statistical Machine Learning
 
----
+🤖 AI Agents & LLM Applications
 
-## Featured Projects
+📚 Building StudyBuild – An Open-Source AI & Data Science Community
 
-- MERF Simulation
-- AI Research Agent
-- Iran CV Analyzer
-- Personal Website
+🌍 Open Source Projects & Research
+📌 MERF Simulation
+Mixed Effects Random Forest research
 
----
+📌 IRAN CV Analyzer
+AI-powered Resume Analyzer with R + LLM
 
-## Connect with me
-
-LinkedIn: www.linkedin.com/in/atefeasadi1
-
-Email : miss.asadi99@gmail.com
-
-<!--
-**AtefeAsadi/AtefeAsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 StudyBuild
+Project-based AI & Data Science Community
