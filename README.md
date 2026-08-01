@@ -42,7 +42,6 @@ Building open-source AI & Data Science projects that connect research with real-
 * Statistical Machine Learning
 * Mixed Effects Random Forest (MERF)
 * AI Agents & LLM Applications
-* Explainable AI (XAI)
 * Open Source Development
 * Biomedical Data Science
 
