@@ -111,10 +111,5 @@ Multi-agent workflow for automating research tasks.
 
 ---
 
-# 🌱 Let's Connect
-
-💼 LinkedIn
-
-📧 Email
 
 ⭐ If you enjoy my projects, feel free to follow or contribute.
