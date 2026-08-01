@@ -2,7 +2,8 @@
 
 🎓 MSc in Statistics
 
-🚀 Founder of StudyBuild – An Open-Source AI & Data Science Community
+🚀 Founder of StudyBuild
+An open-source community where members solve real-world AI and Data Science projects.
 
 💻 Data Scientist & Machine Learning Researcher
 
