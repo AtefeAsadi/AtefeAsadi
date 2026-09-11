@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="Atefe Asadi — Statistics, Data Science and Machine Learning">
+  <img src="./asset/hero.png" width="100%" alt="Atefe Asadi — Statistics, Data Science and Machine Learning">
 </p>
 
 ## Hi, I'm Atefe 👋
