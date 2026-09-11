@@ -1,35 +1,22 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="Atefe Asadi — Statistics, Machine Learning and Research">
+  <img src="./assets/hero.png" width="100%" alt="Atefe Asadi — Statistics, Data Science and Machine Learning">
 </p>
 
-<h2 align="center">Atefe Asadi</h2>
+## Hi, I'm Atefe 👋
 
-<p align="center">
-  MSc Statistics · Data Science · Machine Learning · Research
-</p>
+I have an MSc in Statistics and I’m interested in **Data Science, Machine Learning, and research**.
 
-<p align="center">
-  Building reproducible models for complex real-world data.
-</p>
+I enjoy working with real-world data, building models, exploring patterns, and learning how statistical methods and machine learning can work together.
 
 ---
 
-## About
+## About Me
 
-I am a Statistics MSc graduate working at the intersection of **statistical modeling, machine learning, and applied research**.
-
-My main interests include hierarchical data, mixed-effects machine learning, biomedical data science, educational data, and reproducible analytical workflows.
-
----
-
-## Research Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Mixed--Effects%20Models-Research-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Biomedical%20Data-Science-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Educational%20Data-Research-blue?style=flat-square">
-</p>
+* MSc in Statistics
+* Interested in Data Science & Machine Learning
+* Working mainly with Python and R
+* Interested in health, education, and research data
+* Learning and building projects along the way
 
 ---
 
@@ -37,54 +24,64 @@ My main interests include hierarchical data, mixed-effects machine learning, bio
 
 ### MERF Simulation
 
-Mixed Effects Random Forest and Mixed Effects Random Tree for hierarchical and longitudinal data.
+My MSc research project, focused on **Mixed Effects Random Forest** and **Mixed Effects Random Tree** for hierarchical data.
 
-`R` `Mixed Models` `Random Forest` `Statistical Learning`
+`R` `Random Forest` `Mixed Models`
 
-### Job Market Skill Miner
-
-A Python pipeline for collecting and analyzing real-world job advertisements and identifying market-demanded data skills.
-
-`Python` `Web Scraping` `Pandas` `Labor Market Analytics`
 
 ### CV Analyzer
 
-AI-assisted CV analysis application combining R Shiny with local language models and backend services.
+A CV analysis project using R Shiny and local AI models.
 
-`R Shiny` `LLM` `Docker` `PostgreSQL`
+`R Shiny` `LLM` `Docker`
 
 ### Customer Analytics
 
-Customer segmentation and business analytics using RFM, KPIs, and behavioral analysis.
+Customer behavior analysis using RFM, KPIs, and business metrics.
 
-`Python` `Pandas` `RFM` `Business Analytics`
+`Python` `Pandas` `RFM`
 
 ---
 
-## Tech Stack
+## Tools I Use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,docker,linux" />
-</p>
+### Programming
 
-`SQL` · `Pandas` · `scikit-learn` · `lme4` · `Power BI` · `SPSS`
+`Python` · `R` · `SQL`
+
+### Data & Machine Learning
+
+`Pandas` · `scikit-learn` · `lme4` · `randomForest`
+
+### Analytics & Tools
+
+`Power BI` · `SPSS` · `Git` · `GitHub` 
+
+---
+
+## What I'm Interested In
+
+`Statistics` · `Machine Learning` · `Data Science` · `Mixed Models` · `Health Data` · `Educational Data`
 
 ---
 
 ## StudyBuild
 
-Founder of **StudyBuild** — a project-based data science and research learning community focused on practical, reproducible workflows.
+I’m the founder of **StudyBuild**, a community where we learn data science and research through practical projects.
 
 
-  <a href="https://github.com/AtefeAsadi">GitHub</a>
-</p>
+---
+
+## Connect
+
+[GitHub](https://github.com/AtefeAsadi)
 
 ---
 
 <p align="center">
-  <b>Statistics × Machine Learning × Research</b>
+  Statistics · Data Science · Machine Learning
 </p>
 
 <p align="center">
-  From data to reproducible insight.
+  Learning, building, and working with real-world data.
 </p>
